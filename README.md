@@ -43,7 +43,7 @@ We are developing this framework in open source community without financial plan
 If you like this project and you want to give us peace of mind, you can support us by clicking this button :
 
 <p>
-<a href="https://cutt.ly/9jP8U6q">
+<a href="https://www.paypal.com/paypalme/oneHamidreza">
 <img width="20%" src="https://raw.githubusercontent.com/oneHamidreza/Meow-Framework-MVVM/master/Resources/img_support.png"/>
 </a>
 </p>
